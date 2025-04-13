@@ -26,7 +26,7 @@ export  function App() {
                       ))
                   }
               </ul>
-          <p>This is the content for {state}</p>
+          <p>This is the content for {state}.</p>
     </div>
 }
 
